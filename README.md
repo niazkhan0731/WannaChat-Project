@@ -1,7 +1,11 @@
-# Django Boilerplate
-This is a Boilerplate for any django projects with HTML, CSS, Bootstrap, REST API.
+# Introducing WannaChat! 💬
+Experience the Power of Realtime Communication! 
 
-[![python-version](https://img.shields.io/badge/Python-3.8.10-blue)](https://www.python.org/)
-[![django-version](https://img.shields.io/badge/Django-4.0.3-green)](https://www.djangoproject.com/)
+Discover our cutting-edge Realtime Chat Application, a joint effort with my associate Sajib. 💻🤝
 
+Harnessing the prowess of full-stack programming, we've crafted a dynamic web application that enables users to join real-time chatrooms on diverse topics from all over the world. 
+
+Currently, we're enhancing the platform with exciting features like user profiles, friend lists, and direct messaging. 🚀🌐
+
+Join us on this thrilling journey as we redefine the way people connect and communicate in real-time. Stay tuned for updates and final release! 🌟
 
