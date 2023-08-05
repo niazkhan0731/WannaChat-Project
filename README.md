@@ -1,7 +1,7 @@
 # Introducing WannaChat! 💬
 Experience the Power of Realtime Communication! 🗣
 
-We are super excited to be working on this cutting-edge Chat Application, a joint effort with my associate Sajib. 💻🤝
+We are super excited to be working on this cutting-edge Chat Application, a joint effort with my associate <a href="https://www.github.com/sajib1066">Sajib</a>. 💻🤝
 
 Harnessing the prowess of full-stack programming, we've crafted a dynamic web application that enables users to join real-time chatrooms on diverse topics from all over the world. 
 
