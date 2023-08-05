@@ -8,3 +8,5 @@ Harnessing the prowess of full-stack programming, we've crafted a dynamic web ap
 Currently, we're enhancing the platform with exciting features like user profiles, friend lists, and direct messaging. 🚀🌐
 
 Join us on this thrilling journey as we redefine the way people connect and communicate in real-time. Stay tuned for updates and the final release! 🌟
+
+We are temporarily using PythonAnywhere to host this website in order to view the updates live. You can check out what we have done so far here: https://wannachatglobal.pythonanywhere.com/
