@@ -3,7 +3,7 @@ Experience the Power of Realtime Communication! 🗣
 
 We are super excited to be working on this cutting-edge Chat Application, a joint effort with my associate <a href="https://www.github.com/sajib1066">Sajib</a>. 💻🤝
 
-Harnessing the prowess of full-stack programming, we've crafted a dynamic web application that enables users to join real-time chatrooms on diverse topics from all over the world. 
+Harnessing the prowess of HTML, CSS, JavaScript, Bootstrap framework, Python, Django, and PostgreSQL, we've crafted a dynamic web application that enables users to join real-time chatrooms on diverse topics from all over the world. 
 
 Currently, we're enhancing the platform with exciting features like user profiles, friend lists, and direct messaging. 🚀🌐
 
